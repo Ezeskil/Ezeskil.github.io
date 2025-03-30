@@ -28,7 +28,7 @@ twitter_username: na
 github_username:  Ezeskil
 
 # Build settings
-theme: Architect
+theme: architect
 plugins:
   - jekyll-feed
 
