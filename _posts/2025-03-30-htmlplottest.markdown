@@ -19,6 +19,7 @@ Instead, we will look at a map. This is hexplot of crimes on game days compared 
 
 Here, we see a stronger colored hexagon right next to Oracle Park!
 
-#this is plot
+## Bokeh
+Finally, we have an interactive map of the crimes on game days, where days and categories can be toggled on and off to explore.
 
 <iframe src="/assets/interactive_crime.html" width="800" height="600"></iframe>
