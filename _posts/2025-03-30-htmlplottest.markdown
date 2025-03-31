@@ -11,7 +11,7 @@ As large sports events often serve alcohol and have a reputation for having drun
 ## Bar charts
 We will look at the crime categories 'larceny/theft', 'assault', 'vandalism', 'drug/narcotic' and 'liquor laws', as these are assumed to be most related to intoxication. The plots display the hourly crime from midnight the day of the games until 7 AM the following day.
 
-![average](assets/average.png)
+![average](https://github.com/Ezeskil/Ezeskil.github.io/blob/main/assets/average.png)
 
 Unfortunately, there is no clear trend for the occurrence of crime. This is likely influenced by the data covering such a large area that any related changes gets washed out.
 
@@ -19,7 +19,7 @@ Unfortunately, there is no clear trend for the occurrence of crime. This is like
 
 Instead, we will look at a map. This is hexplot of crimes on game days compared to the average of a subsample of days in 2007-14.
 
-![hexmap](assets/hexmap.png)
+![hexmap](https://github.com/Ezeskil/Ezeskil.github.io/blob/main/assets/hexmap.png)
 
 Here, we see a stronger colored hexagon right next to Oracle Park!
 
