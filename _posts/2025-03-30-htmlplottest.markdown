@@ -21,5 +21,4 @@ Here, we see a stronger colored hexagon right next to Oracle Park!
 
 #this is plot
 
-
-<iframe src="/assets/plot.html" width="800" height="600"></iframe>
+<iframe src="/assets/interactive_crime.html" width="800" height="600"></iframe>
