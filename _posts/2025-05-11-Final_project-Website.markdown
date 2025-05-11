@@ -1,4 +1,8 @@
-# Final project - Website - How corona impacted the danish population and what impacts did we see in our .
+# Final project - Notebook - How correlations between Corona and traffic flow.
+_By Eskil Rasmussen s203817
+
+
+# Final project - Website - How corona impacted the danish transport sector.
 _By Eskil Rasmussen s203817
 
 ## Introduction
