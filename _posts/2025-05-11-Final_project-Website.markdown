@@ -1,9 +1,6 @@
-# Final project - Notebook - How correlations between Corona and traffic flow.
+# Final project - Website
 _By Eskil Rasmussen s203817
-
-
-# Final project - Website - How corona impacted the danish transport sector.
-_By Eskil Rasmussen s203817
+Course: 02806: Social Data Analysis and Visualization
 
 ## Introduction
 Welcome to an interactive exploration of how the COVID-19 pandemic reshaped mobility patterns in Denmark. 
@@ -18,7 +15,7 @@ Our goals are to:
 
 Corona data: Danish historical COVID-19 figures from SST (Staten Serum Institut): https://www.ssi.dk//sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/historiske-covid-19-opgoerelser 
 
-Traffic Flow: Danish traffic data is hard to acces by day. Only avaliable data was specific locat data counts, and on average over a year. which is insufficent if we want to show trends after e.g. closing of borders. Traffic flow pr day used is hence from the German data bank www.bast.de and data is from right across the border on the german A7 autobahn at Ellund is used: https://www.bast.de/DE/Verkehrstechnik/Fachthemen/v2-verkehrszaehlung/Daten/2022_1/Jawe2022.html?nn=1817946&cms_detail=1109&cms_map=0
+Traffic Flow: Danish traffic data is hard to acces by day. Only avaliable data from DK was specific loca data counts, and on average over a year. which is insufficent if we want to show trends after e.g. closing of borders. Traffic flow pr day used is hence from the German data bank www.bast.de and data is from right across the border on the german A7 autobahn at Ellund is used: https://www.bast.de/DE/Verkehrstechnik/Fachthemen/v2-verkehrszaehlung/Daten/2022_1/Jawe2022.html?nn=1817946&cms_detail=1109&cms_map=0
 
 Timeline & Policies: Key dates of national lockdowns, reopening phases, and policy announcements are from here: https://www.ssi.dk/-/media/arkiv/subsites/covid19/presse/tidslinje-over-covid-19/covid-19-tidslinje-for-2020-2022-lang-version---version-1---april-2022.pdf2024
 
