@@ -29,8 +29,8 @@ Below is a combined view of:
 * Key policy and variant events (vertical annotations)
 
 
-![alt text](image.png)
-<img src="/assets/stackedarea.png">
+<img src="/assets/Area plot.png">
+
 
 Figure 1. COVID‑19 cases (stacked by region) and hospitalizations per week (7‑day rolling averages), annotated with major lockdowns and reopening phases.
 
