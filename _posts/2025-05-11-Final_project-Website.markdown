@@ -88,4 +88,4 @@ By comparing 2019–22 traffic to a 2015–17 baseline, we highlight how lockdow
 
 <img src="/assets/area plot.png">
 
-<iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="800" height="600"></iframe>
+<iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="800" height="1400"></iframe>
