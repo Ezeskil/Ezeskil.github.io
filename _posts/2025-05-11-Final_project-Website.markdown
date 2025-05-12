@@ -44,7 +44,8 @@ Key takeaways:
 ## 1.1 Correlation and lag analisys
 Just for fun it would be intersting to see how well the two correlate, and what the acutal lag is.
 Below is a scatter plot made to show correlation between hopitalizations and cases here with a guessed shift of 14 days - As that was the amount of time one had to isolate themself if you got corona.
-![alt text](image-1.png)
+
+<img src="/assets/corr covid and hosp 14 day lag.png">
 
 Figure 2. Correlation between cases and hospitalizations with a lag of 14 days. - The pearson correlation is 0.89
 
