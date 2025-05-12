@@ -97,7 +97,7 @@ Figure 6. Map of amount of hospitalizations across region along with total numbe
 * The region around copenhagen is hit the hardest compared to the others - Especially in the early waves.
 
 
-## limits and learnings
+## Limits and learnings
 
 * German nation wide events during corona propably have an impact on the data as well as the traffic data is from the german border.
 
