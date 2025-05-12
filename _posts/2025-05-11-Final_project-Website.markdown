@@ -84,7 +84,9 @@ There is some wierd drops in the beginning of 2020 and 2021 tho for work related
 By comparing 2019–22 traffic to a 2015–17 baseline, we can highlight how lockdowns and rising case counts influenced cross-border movement. 
 This is below plottet along with hospitalisations both as a graph and as mapped out on a map of the regions in denmark. Oppasity showing amount of hospitalisations in each region.
 
-<iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="900" height="1100"></iframe>
+<iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="1000" height="1150"></iframe>
+
+Figure 6. Map of amount of hospitalizations across region along with total number of hopitalizations, the traffic anomaly based on an average made of data from the same checkpoint in the years 2015-2017 (before corona), and big event/nationwide political decisions made due to corona. The plot has a Slider i the bottom and the event are toggable 
 
 * It is clear to see that peaks in private traffic reductions align closely with hospitalization surges, especially during first and second lockdowns.
 
@@ -95,12 +97,11 @@ This is below plottet along with hospitalisations both as a graph and as mapped 
 * The region around copenhagen is hit the hardest compared to the others - Especially in the early waves.
 
 
-## Conclusions
+## limits and learnings
 
-Our multi-view analysis reveals how Denmark’s swift policy actions and vaccination efforts shaped both health outcomes and mobility:
+* German nation wide events during corona propably have an impact on the data as well as the traffic data is from the german border.
 
-Proactive measures led to early, sharp drops in leisure travel, properbly contributing to limit hospital overload.
+* Good traffic data on volume of cars pr day prooved very hard to find for danish roads, and it took a lot of time sourcing the german data. Nice to know for another time that the germans like their data. :)
 
-Work related traffic proved resilient, which is impressive during 
+**To see how the plots are made you can click here for a notebook experince.**
 
-Interactive exploration empowers readers to test specific hypotheses—e.g., what if variants had emerged earlier?
