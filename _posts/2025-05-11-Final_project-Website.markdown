@@ -51,7 +51,7 @@ Figure 2. Correlation between cases and hospitalizations with a lag of 14 days. 
 
 But how many days is the hopitalizations actually lagging behind? figure 3 shows the pearson correlation between the two compared to days of lag
 
-![alt text](image-2.png)
+<img src="/assets/Corr between cases and hosp vs lag days.png">
 
 Figure 3. Correlation versus lag days, peaking at ~0.89 around 14 days – indicating hospitalizations typically follow case surges by about 2-3 weeks.
 
@@ -62,7 +62,8 @@ Next, we analyze vehicle counts at the Ellund border station.
 
 Here is a graph showing average weekly traffic over time.
 
-![alt text](image-4.png)
+<img src="/assets/weekly traffic avg.png">
+
 
 Figure 4. Average amount of weekly traffic for the years 2019-2022.
 
@@ -70,7 +71,7 @@ Its seen that it varies a lot thoughout the years, with peaks in the summer holi
 
 To get an idea of different types of traffic we can try to group all passenger cars and motorcycles as "private" traffic and all trucks and vans as "work" traffic:
 
-![alt text](image-6.png)
+<img src="/assets/weekly traffic avg by vehicle.png">
 
 Figure 5. Amount of private vs work traffic. 
 
@@ -79,12 +80,10 @@ Its clear to see that the season especially impact private traffic, and doens't 
 There is some wierd drops in the beginning of 2020 and 2021 tho for work related traffic, lets compare this with some corona data. 
 
 
-
-## 3. 
+## 3. Covid vs traffic flow
 
 By comparing 2019–22 traffic to a 2015–17 baseline, we highlight how lockdowns and rising case counts influenced cross-border movement.
 
-
-<img src="/assets/area plot.png">
-
 <iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="900" height="1100"></iframe>
+
+
