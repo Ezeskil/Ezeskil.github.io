@@ -84,8 +84,6 @@ There is some wierd drops in the beginning of 2020 and 2021 tho for work related
 By comparing 2019–22 traffic to a 2015–17 baseline, we highlight how lockdowns and rising case counts influenced cross-border movement.
 
 
-
-
 <img src="/assets/area plot.png">
 
 <iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="900" height="1100"></iframe>
