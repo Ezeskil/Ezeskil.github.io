@@ -57,7 +57,7 @@ Figure 3. Correlation versus lag days, peaking at ~0.89 around 14 days – indic
 
 **Interpretation:** This shows that the guess at 14 days was coorrect, but at around 21 days, we also see a peak.
 
-## 2. traffic flow analisys
+## 2. Traffic flow analisys
 Next, we analyze vehicle counts at the Ellund border station. 
 
 Here is a graph showing average weekly traffic over time.
