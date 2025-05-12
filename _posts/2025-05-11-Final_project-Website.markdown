@@ -84,7 +84,7 @@ There is some wierd drops in the beginning of 2020 and 2021 tho for work related
 By comparing 2019–22 traffic to a 2015–17 baseline, we can highlight how lockdowns and rising case counts influenced cross-border movement. 
 This is below plottet along with hospitalisations both as a graph and as mapped out on a map of the regions in denmark. Oppasity showing amount of hospitalisations in each region.
 
-<iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="1000" height="1150"></iframe>
+<iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="1050" height="1150"></iframe>
 
 Figure 6. Map of amount of hospitalizations across region along with total number of hopitalizations, the traffic anomaly based on an average made of data from the same checkpoint in the years 2015-2017 (before corona), and big event/nationwide political decisions made due to corona. The plot has a Slider i the bottom and the event are toggable 
 
