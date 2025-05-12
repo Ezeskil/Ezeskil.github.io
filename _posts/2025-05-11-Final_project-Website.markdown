@@ -55,7 +55,7 @@ But how many days is the hopitalizations actually lagging behind? figure 3 shows
 
 Figure 3. Correlation versus lag days, peaking at ~0.89 around 14 days – indicating hospitalizations typically follow case surges by about 2-3 weeks.
 
-**Interpretation:** This shows that the guess at 14 days was coorrect, but at around 21 days, we also see a peak.
+This shows that the guess at 14 days was coorrect, but at around 21 days, we also see a peak. - Could be due to men and women maybe having different avererage times before they get really sick. - We could dive into that rabbit hole, but lets proceed for now :).
 
 ## 2. Traffic flow analisys
 Next, we analyze vehicle counts at the Ellund border station. 
@@ -63,7 +63,6 @@ Next, we analyze vehicle counts at the Ellund border station.
 Here is a graph showing average weekly traffic over time.
 
 <img src="/assets/weekly traffic avg.png">
-
 
 Figure 4. Average amount of weekly traffic for the years 2019-2022.
 
@@ -82,8 +81,34 @@ There is some wierd drops in the beginning of 2020 and 2021 tho for work related
 
 ## 3. Covid vs traffic flow
 
-By comparing 2019–22 traffic to a 2015–17 baseline, we highlight how lockdowns and rising case counts influenced cross-border movement.
+By comparing 2019–22 traffic to a 2015–17 baseline, we can highlight how lockdowns and rising case counts influenced cross-border movement. 
+This is below plottet along with hospitalisations both as a graph and as mapped out on a map of the regions in denmark. Oppasity showing amount of hospitalisations in each region.
 
 <iframe src="/assets/ellund_covid_map_hosp_traffic.html" width="900" height="1100"></iframe>
 
+* It is clear to see that peaks in private traffic reductions align closely with hospitalization surges, especially during first and second lockdowns.
 
+* Work traffic remained above 50% of baseline even when hospital strain was highest, underscoring essential mobility.
+
+* The two-week hospitalization lag behind cases also manifests in traffic: private flow dips slightly after peaks in case growth.
+
+* The region around copenhagen is hit the hardest compared to the others - Especially in the early waves.
+
+
+## Conclusions
+
+Our multi-view analysis reveals how Denmark’s swift policy actions and vaccination efforts shaped both health outcomes and mobility:
+
+Proactive measures led to early, sharp drops in leisure travel, properbly contributing to limit hospital overload.
+
+Work related traffic proved resilient, which is impressive during 
+
+Interactive exploration empowers readers to test specific hypotheses—e.g., what if variants had emerged earlier?
+
+Next Steps
+
+Age-group breakdown: Drill hospital admissions by age to see vulnerability patterns.
+
+Regional lockdown policies: Compare local restrictions (e.g., Copenhagen vs. Bornholm).
+
+Long-term trends: Extend traffic analysis into post-2022 to assess lasting behavioral shifts.
