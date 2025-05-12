@@ -41,7 +41,7 @@ Key takeaways:
 * Following Omicron, hospitalizations dropped rapidly even as case counts plateaued, reflecting vaccination and changing severity.
 * An Interesting opservation can be made bestween the peaks of the two graphs: They are shifted - This is most likely due the time it takes to become ill after you get infected. but how big is this shift?
 
-## 1.1 Correlation and lag analisys
+### 1.1 Correlation and lag analisys
 Just for fun it would be intersting to see how well the two correlate, and what the acutal lag is.
 Below is a scatter plot made to show correlation between hopitalizations and cases here with a guessed shift of 14 days - As that was the amount of time one had to isolate themself if you got corona.
 
