@@ -104,11 +104,3 @@ Proactive measures led to early, sharp drops in leisure travel, properbly contri
 Work related traffic proved resilient, which is impressive during 
 
 Interactive exploration empowers readers to test specific hypotheses—e.g., what if variants had emerged earlier?
-
-Next Steps
-
-Age-group breakdown: Drill hospital admissions by age to see vulnerability patterns.
-
-Regional lockdown policies: Compare local restrictions (e.g., Copenhagen vs. Bornholm).
-
-Long-term trends: Extend traffic analysis into post-2022 to assess lasting behavioral shifts.
