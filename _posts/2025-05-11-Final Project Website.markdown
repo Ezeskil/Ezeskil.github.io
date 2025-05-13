@@ -1,5 +1,5 @@
 # Final project - Website
-_By Eskil Rasmussen s203817 - Group 22
+By Eskil Rasmussen s203817 - Group 22
 Course: 02806: Social Data Analysis and Visualization
 
 ## Introduction
@@ -21,7 +21,7 @@ Timeline & Policies: Key dates of national lockdowns, reopening phases, and poli
 
 
 ## 1. Denmarks Pandemic Trends
-Denmark confirmed its first COVID-19 case on February 27, 2020, and quickly moved to close borders (March 13) and impose a nationwide lockdown on March 16—earlier than many European neighbors, including France and Germany
+Denmark confirmed its first COVID-19 case on February 27, 2020, and quickly moved to close borders (March 13) and impose a nationwide lockdown on March 16, earlier than many European neighbors, including France and Germany
 
 Below is a combined view of:
 * Weekly confirmed cases (stacked area by region)
@@ -39,7 +39,7 @@ Key takeaways:
 * Winter 2020–21 saw a larger second wave of cases and hospitalizations.
 * The Omicron surge (late 2021 / early 2022) produced the highest hospitalization and infection rates across all regions.
 * Following Omicron, hospitalizations dropped rapidly even as case counts plateaued, reflecting vaccination and changing severity.
-* An Interesting opservation can be made bestween the peaks of the two graphs: They are shifted - This is most likely due the time it takes to become ill after you get infected. but how big is this shift?
+* The peaks in case counts and hospitalizations don’t line up exactly. That lag reflects the time from infection to severe illness. Let’s measure it precisely in the next section.
 
 ### 1.1 Correlation and lag analisys
 Just for fun it would be intersting to see how well the two correlate, and what the acutal lag is.
@@ -53,9 +53,9 @@ But how many days is the hopitalizations actually lagging behind? figure 3 shows
 
 <img src="/assets/Corr between cases and hosp vs lag days.png">
 
-Figure 3. Correlation versus lag days, peaking at ~0.89 around 14 days – indicating hospitalizations typically follow case surges by about 2-3 weeks.
+Figure 3. Correlation versus lag days, peaking at ~0.89 around 14 days, indicating hospitalizations typically follow case surges by about 2-3 weeks.
 
-This shows that the guess at 14 days was coorrect, but at around 21 days, we also see a peak. - Could be due to men and women maybe having different avererage times before they get really sick. - We could dive into that rabbit hole, but lets proceed for now :).
+This shows that the guess at 14 days was coorrect, but at around 21 days, we also see a peak. Could be due to men and women maybe having different avererage times before they get really sick. We could dive into that rabbit hole, but lets proceed for now :).
 
 ## 2. Traffic flow analisys
 Next, we analyze vehicle counts at the Ellund border station. 
@@ -94,7 +94,7 @@ Figure 6. Map of amount of hospitalizations across region along with total numbe
 
 * The two-week hospitalization lag behind cases also manifests in traffic: private flow dips slightly after peaks in case growth.
 
-* The region around copenhagen is hit the hardest compared to the others - Especially in the early waves.
+* The region around copenhagen is hit the hardest compared to the other. Especially in the early waves.
 
 
 ## Limits and learnings
@@ -103,5 +103,5 @@ Figure 6. Map of amount of hospitalizations across region along with total numbe
 
 * Good traffic data on volume of cars pr day prooved very hard to find for danish roads, and it took a lot of time sourcing the german data. Nice to know for another time that the germans like their data. :)
 
-**To see how the plots are made you can click [here](https://github.com/Ezeskil/Ezeskil.github.io/blob/main/_posts/Boiii7.ipynb) for a notebook experince.**
+**To see how the plots are made and the reasoning behind, you can click [here](https://github.com/Ezeskil/Ezeskil.github.io/blob/main/_posts/Boiii7.ipynb).**
 
