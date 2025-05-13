@@ -1,6 +1,8 @@
 # Final project - Website
-By Eskil Rasmussen s203817 - Group 22
-Course: 02806: Social Data Analysis and Visualization
+By Eskil Rasmussen s203817 - Group 22\
+Course: 02806: Social Data Analysis and Visualization\
+Date: 13-05-2025
+
 
 ## Introduction
 Welcome to an exploration of how the COVID-19 pandemic reshaped mobility patterns in Denmark. 
