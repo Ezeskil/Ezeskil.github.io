@@ -105,5 +105,5 @@ Figure 6. Map of amount of hospitalizations across region along with total numbe
 
 * Good traffic data on volume of cars pr day prooved very hard to find for danish roads, and it took a lot of time sourcing the german data. Nice to know for another time that the germans like their data. :)
 
-**To see how the plots are made and the reasoning behind, you can click [here](https://github.com/Ezeskil/Ezeskil.github.io/blob/main/_posts/Boiii7.ipynb).**
+**To see how the plots are made and the reasoning behind, you can click [here](https://github.com/Ezeskil/Ezeskil.github.io/blob/main/_posts/Final%20project%20-%20Notebook.ipynb).**
 
